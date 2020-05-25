@@ -1,0 +1,2 @@
+rootProject.name='SnakeGame1.2'
+include ':app'
